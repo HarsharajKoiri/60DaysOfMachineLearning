@@ -29,24 +29,24 @@
 ---
 # 3. Key Terminologies
 
-##  Term                       Meaning
-### Model                      The algorithm that learns from data
-### Training                   Teaching the model with available data
-### Testing                    Checking model performance on new data
-### Features                   Input variables (example: size of house)
-### Labels                     Output variable (example: price of house)
-### Dataset                    Collection of data points (rows + columns)
-### Algorithm                  The logic that finds patterns (example: Decision Tree, Linear Regression)
+  **Term**                   **Meaning**
+  *Model*                      The algorithm that learns from data
+  *Training*                   Teaching the model with available data
+  *Testing*                    Checking model performance on new data
+  *Features*                   Input variables (example: size of house)
+  *Labels*                     Output variable (example: price of house)
+  *Dataset*                    Collection of data points (rows + columns)
+  *Algorithm*                  The logic that finds patterns (example: Decision Tree, Linear Regression)
 
 ---
 # 4. Very Important ML Cycle
    
-###  Collect Data   ➔
-###  Prepare Data   ➔
-###  Choose Model   ➔
-###  Train Model    ➔
-###  Evaluate Model ➔
-###  Predict New Data
+    Collect Data   ➔
+    Prepare Data   ➔
+    Choose Model   ➔
+    Train Model    ➔
+    Evaluate Model ➔
+    Predict New Data
 
 ---
 # 5. Real-Life Examples of ML
