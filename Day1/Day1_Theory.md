@@ -60,4 +60,40 @@
 
 
 ---
+#  Code Summary
+
+### ✅ Python Basics
+- Created two variables `x` and `y`, added them and printed the **sum**.
+- Used a **`for` loop** to print index values from 0 to 4.
+
+---
+
+### ✅ NumPy Basics
+- Imported **NumPy** library.
+- Created a **NumPy array** `arr = [1, 2, 3, 4, 5]`.
+- Performed **element-wise multiplication**: multiplied each element by 2.
+
+---
+
+### ✅ Pandas Basics
+- Imported **Pandas** library.
+- Loaded a **CSV dataset** (Iris dataset) directly from a URL.
+- Displayed the **first 5 rows** of the dataset using `df.head()`.
+- Displayed the **statistical description** of the dataset using `df.describe()`.
+
+---
+
+### ✅ Matplotlib Basics
+- Imported **Matplotlib**.
+- Created a **simple line plot** with points (1,2), (2,4), (3,6), (4,8), (5,10).
+- Added **title**, **X-axis label**, and **Y-axis label**.
+- Displayed the graph using `plt.show()`.
+
+---
+
+#  What we learned today:
+- Variables and loops in Python.
+- Basics of **NumPy** (arrays and operations).
+- Basics of **Pandas** (loading data, viewing data, describing data).
+- Basics of **Matplotlib** (plotting a simple graph).
 
