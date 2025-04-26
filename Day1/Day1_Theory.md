@@ -29,7 +29,7 @@
 ---
 # 3. Key Terminologies
 
-  **Term**                   **Meaning**<br>
+  **Term**       &nbsp;&nbsp;&nbsp;          **Meaning**<br>
   *Model*                      The algorithm that learns from data<br>
   *Training*                   Teaching the model with available data<br>
   *Testing*                    Checking model performance on new data<br>
@@ -51,8 +51,8 @@
 ---
 # 5. Real-Life Examples of ML
 
-  YouTube recommends videos (based on your history).<br>
-  Netflix suggests shows.<br>
-  Credit card fraud detection.<br>
-  Self-driving cars.<br>
-  Medical diagnosis from X-rays.<br>
+  - YouTube recommends videos (based on your history).<br>
+  - Netflix suggests shows.<br>
+  - Credit card fraud detection.<br>
+  - Self-driving cars.<br>
+  - Medical diagnosis from X-rays.<br>
