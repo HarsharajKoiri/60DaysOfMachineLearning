@@ -29,13 +29,13 @@
 ---
 # 3. Key Terminologies
 
-  **Term**                   **Meaning**
-  *Model*                      The algorithm that learns from data
-  *Training*                   Teaching the model with available data
-  *Testing*                    Checking model performance on new data
-  *Features*                   Input variables (example: size of house)
-  *Labels*                     Output variable (example: price of house)
-  *Dataset*                    Collection of data points (rows + columns)
+  **Term**                   **Meaning**<br>
+  *Model*                      The algorithm that learns from data<br>
+  *Training*                   Teaching the model with available data<br>
+  *Testing*                    Checking model performance on new data<br>
+  *Features*                   Input variables (example: size of house)<br>
+  *Labels*                     Output variable (example: price of house)<br>
+  *Dataset*                    Collection of data points (rows + columns)<br>
   *Algorithm*                  The logic that finds patterns (example: Decision Tree, Linear Regression)
 
 ---
@@ -51,8 +51,8 @@
 ---
 # 5. Real-Life Examples of ML
 
-###  YouTube recommends videos (based on your history).
-###  Netflix suggests shows.
-###  Credit card fraud detection.
-###  Self-driving cars.
-###  Medical diagnosis from X-rays.
+  YouTube recommends videos (based on your history).<br>
+  Netflix suggests shows.<br>
+  Credit card fraud detection.<br>
+  Self-driving cars.<br>
+  Medical diagnosis from X-rays.<br>
