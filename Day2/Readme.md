@@ -16,6 +16,9 @@ In supervised learning, labels (target variables) are known outputs associated w
 
 ## ⭐ Supervised Learning
 
+![Supervised-learning](https://github.com/user-attachments/assets/28de6057-20e2-4f02-8405-cee314a7790d)
+
+
 ###  Simple Explanation
 Learning with a teacher who provides answers - like solving math problems with an answer key.
 
@@ -46,6 +49,8 @@ Medical diagnosis: Predicting diseases from symptoms
 ---
 
 ## ⭐ Unsupervised Learning
+
+![Unsupervised-learning](https://github.com/user-attachments/assets/95267238-b5ac-47cd-b07f-ad73959ff1fd)
 
 ###  Simple Explanation
 Finding hidden patterns without instructions - like sorting Legos blindfolded.
@@ -80,6 +85,8 @@ Netflix recommendations based on viewing habits
 ---
 
 ## ⭐ Reinforcement Learning
+
+![1-(2)](https://github.com/user-attachments/assets/6e881180-91a2-4209-a44f-af048d1776e1)
 
 ###  Simple Explanation
 Learning by trial and error - like training a dog with treats.
