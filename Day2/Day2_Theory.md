@@ -3,10 +3,10 @@
 ## 🏷️ Labels in Machine Learning
 
 ###  Simple Explanation
-Labels are the "correct answers" given to a model during training - like answers in a workbook.
+- Labels are the "correct answers" given to a model during training - like answers in a workbook.
 
 ###  Technical Definition
-In supervised learning, labels (target variables) are known outputs associated with input data.
+- In supervised learning, labels (target variables) are known outputs associated with input data.
 
 ### 💡 Key Notes
 - Used in **supervised learning** (e.g., "cat"/"dog" tags for images)
@@ -20,10 +20,10 @@ In supervised learning, labels (target variables) are known outputs associated w
 
 
 ###  Simple Explanation
-Learning with a teacher who provides answers - like solving math problems with an answer key.
+- Learning with a teacher who provides answers - like solving math problems with an answer key.
 
 ###  Technical Definition
-Trains models on labeled datasets to predict outcomes for unseen data.
+- Trains models on labeled datasets to predict outcomes for unseen data.
 
 ### 📊 Types & Algorithms
 
@@ -44,7 +44,7 @@ Example: Predicting house prices
 3. Adjust model to reduce errors
 
 ###  Real-Life Example
-Medical diagnosis: Predicting diseases from symptoms
+- Medical diagnosis: Predicting diseases from symptoms
 
 ---
 
@@ -53,10 +53,10 @@ Medical diagnosis: Predicting diseases from symptoms
 ![Unsupervised-learning](https://github.com/user-attachments/assets/95267238-b5ac-47cd-b07f-ad73959ff1fd)
 
 ###  Simple Explanation
-Finding hidden patterns without instructions - like sorting Legos blindfolded.
+- Finding hidden patterns without instructions - like sorting Legos blindfolded.
 
 ###  Technical Definition
-Analyzes unlabeled data to discover intrinsic structures.
+- Analyzes unlabeled data to discover intrinsic structures.
 
 ### 📊 Types & Algorithms
 
@@ -80,7 +80,7 @@ Example: Compressing 1000 features to 2D
 - Features must capture data diversity
 
 ###  Real-Life Example
-Netflix recommendations based on viewing habits
+- Netflix recommendations based on viewing habits
 
 ---
 
@@ -89,10 +89,10 @@ Netflix recommendations based on viewing habits
 ![1-(2)](https://github.com/user-attachments/assets/6e881180-91a2-4209-a44f-af048d1776e1)
 
 ###  Simple Explanation
-Learning by trial and error - like training a dog with treats.
+- Learning by trial and error - like training a dog with treats.
 
 ###  Technical Definition
-Agent learns optimal actions by maximizing rewards.
+- Agent learns optimal actions by maximizing rewards.
 
 ### 📊 Types & Algorithms
 #### 1. Model-Free (Learns by doing)
@@ -117,7 +117,7 @@ Example: Self-driving car practice
 - Actions: Possible moves
 
 ###  Real-Life Example
-Robots learning to walk
+- Robots learning to walk
 
 ---
 
